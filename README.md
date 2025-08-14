@@ -1,6 +1,6 @@
 # Technical Requirements Overview
 
-## Frontend Libraries
+## Frontend Framework
 
 All libraries must be bundled locally for air-gapped environment usage.
 
